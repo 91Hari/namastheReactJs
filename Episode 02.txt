@@ -1,5 +1,5 @@
 I have installed git by download git for windows package
-Installed node and npm and then upgraded themHari
+Installed node and npm and then upgraded them
 I have initiated git inside this folder with command
     > git init
     // Added all before commit
