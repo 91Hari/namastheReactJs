@@ -1,0 +1,18 @@
+I have installed git by download git for windows package
+Installed node and npm and then upgraded themHari
+I have initiated git inside this folder with command
+    > git init
+    // Added all before commit
+    > git add .
+    > git commit -m "episode 01"
+    // created main branch using command
+    > git branch -M "main"
+
+    // added my mail id into global by using the below command
+    > git config --global user.email "tharikrishna1991@gmail.com"
+
+    // connect to the repository by running the remote add origin command ( This is available when created repo)
+    > git remote add origin https://github.com/91Hari/namastheReactJs.git
+
+    // pushed the code to the newly created main brach by using below command
+    > git push origin main
