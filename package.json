@@ -1,5 +1,26 @@
 {
+  "name": "namasthereact",
+  "version": "1.0.0",
+  "description": "this is a sample react applicatin",
+  "homepage": "https://github.com/91Hari/namastheReactJs#readme",
+  "bugs": {
+    "url": "https://github.com/91Hari/namastheReactJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/91Hari/namastheReactJs.git"
+  },
+  "license": "ISC",
+  "author": "hari krishna",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
   }
 }
